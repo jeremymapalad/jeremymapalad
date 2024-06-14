@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
   <img src="https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=mui&logoColor=white" alt="MUI" />
+  <img alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=ant-design&logoColor=white"/>
 </p>
 
 ### Backend
@@ -66,8 +67,8 @@
   <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku" />
 
   <br />
-  <img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=flat-square&logo=adobe-creative-cloud&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=flat-square&logo=adobe-creative-cloud&logoColor=white&labelColor=DA1F26"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=F24E1E"/>
 </p>
   
 ---
