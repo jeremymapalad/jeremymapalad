@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-Programming-blue" alt="Java">
+  <img src="https://img.shields.io/badge/Spring%20Boot-Framework-brightgreen" alt="Spring Boot">
 </p>
 
 ### CMS & HEADLESS CMS
