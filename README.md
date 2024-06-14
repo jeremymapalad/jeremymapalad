@@ -12,7 +12,7 @@
 
 ### Frontend
 <p align="left">
-  <img alt="React.js" src="https://img.shields.io/badge/React.js-01d5fc?style=flat-square&logo=react&logoColor=white&labelColor=FFFFFF"/>
+  <img alt="React.js" src="https://img.shields.io/badge/React.js-01d5fc?style=flat-square&logo=react&logoColor=white&labelColor=01d5fc"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
