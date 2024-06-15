@@ -5,7 +5,7 @@
 
 - **Freelancing**: Utilizing mostly React and WordPress for freelance projects. Reach out if you're interested in collaborating!
 - **Personal Projects**: Building web applications that solve specific, real-life problems.
-- I am also working on self-initiated projects to showcase my skills, as NDAs cover most of my company and freelance projects.
+- During my free time, I work on self-initiated projects to showcase my skills, due to NDAs limiting disclosure of my company and freelance work.
 
 ---
 ## 💼 Skills & Expertise
