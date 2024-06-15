@@ -1,5 +1,7 @@
 # Hello there! I'm Jeremy Mapalad.
 
+- Please feel free to explore my portfolio [my portfolio](https://jeremymapalad.github.io/portfolio/) to learn more.
+
 ---
 ## 💡 What I'm Working On
 
