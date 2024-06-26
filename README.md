@@ -3,13 +3,6 @@
 - Please feel free to explore [my portfolio](https://jeremymapalad.github.io/portfolio/) to learn more.
 
 ---
-## 💡 What I'm Working On
-
-- **Freelancing**: Utilizing mostly React and WordPress for freelance projects. Reach out if you're interested in collaborating!
-- **Personal Projects**: Building web applications that solve specific, real-life problems.
-- During my free time, I work on self-initiated projects to showcase my skills, due to NDAs limiting disclosure of my company and freelance work.
-
----
 ## 💼 Skills & Expertise
 
 ### Frontend
